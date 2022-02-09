@@ -48,7 +48,7 @@ Hence, no database connection will occur.
 This web-app is **NOT** secure and therefore should not hosted on an untrusted network or host any sensitive data.
 
 A notable security bug, which was done _intentionally_ for making development easier: 
-https://github.com/safesploit/TwitterClone/blob/b64afcf8d4782a83986ec038a7744297a0058d65/app.js#L70
+https://github.com/safesploit/TwitterClone/blob/b64afcf8d4782a83986ec038a7744297a0058d65/app.js#L74
 
 Which is not the only occurance of allowing the server-side to pass _full database queries_ to the client-side.
 During development this allowed for easier client-side manipulation of data without having to plan.
