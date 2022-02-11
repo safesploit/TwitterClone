@@ -21,13 +21,23 @@ A clone of the social media website Twitter written with Node.JS, MongoDB and So
   * [Homepage](#homepage)
   * [Tweets](#tweets)
   * [Likes, comments, and retweets](#likes--comments--and-retweets)
+    + [Replying on a tweet](#replying-on-a-tweet)
+    + [Commenting on a tweet](#commenting-on-a-tweet)
+    + [Retweet](#retweet)
   * [Profile pages](#profile-pages)
     + [Profile Photo](#profile-photo)
     + [Profile Cover Photo](#profile-cover-photo)
+    + [Final](#final)
   * [Following and followers](#following-and-followers)
   * [Real-time Instant Messaging](#real-time-instant-messaging)
   * [Real-time Notifications](#real-time-notifications)
   * [Group Chat](#group-chat)
+    + [Starting a group chat](#starting-a-group-chat)
+    + [Demo group chat](#demo-group-chat)
+  * [Search](#search)
+    + [Search by Tweets](#search-by-tweets)
+    + [Search by Users](#search-by-users)
+- [Preview Images Mobile Responsiveness](#Preview--Images--Mobile-Responsiveness)
 
 # Install Instructions
 
@@ -126,3 +136,19 @@ Notice notifcation badges on the navigation panel.
 
 <img width="814" alt="image29" src="https://user-images.githubusercontent.com/10171446/153633977-467f2450-2bd6-422d-8d6f-c49ca9c81039.PNG">
 
+## Search
+
+### Search by Tweets
+
+![image10](https://user-images.githubusercontent.com/10171446/153636057-b464693d-58e7-4661-86a5-38db893ab6fa.PNG)
+
+### Search by Users
+
+Searches by firstname, lastname and username fields
+
+![image11](https://user-images.githubusercontent.com/10171446/153636293-3a6e385d-516a-4a36-a45f-de46aa01309b.PNG)
+
+
+# Preview Images Mobile Responsiveness
+
+Coming soon...
