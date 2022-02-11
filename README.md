@@ -57,6 +57,8 @@ During development this allowed for easier client-side manipulation of data with
 
 # Preview Images
 
+Not final versions, will be cropped and updated
+
 ## Homepage
 
 Placeholder -- images coming soon.
@@ -65,18 +67,62 @@ Placeholder -- images coming soon.
 
 ## Likes, comments, and retweets
 
+
+### Replying on a tweet
+
+![image17](https://user-images.githubusercontent.com/10171446/153634971-ed36daf5-7e77-40c3-9627-eca7c175f38d.PNG)
+
+
+### Commenting on a tweet
+
+![image18](https://user-images.githubusercontent.com/10171446/153634817-44a23a12-f3c6-43fd-99d9-f7aad4c08eff.PNG)
+
+
+### Retweet
+
+![image19](https://user-images.githubusercontent.com/10171446/153635134-03a9e2e3-93c5-42ac-bf89-ff695d1c2843.PNG)
+
+
 ## Profile pages
 
 ### Profile Photo
 
+<img width="814" alt="image7" src="https://user-images.githubusercontent.com/10171446/153634415-eac1ea01-fb30-4a3b-b771-758177627b15.PNG">
+
+
 ### Profile Cover Photo
+
+![image8](https://user-images.githubusercontent.com/10171446/153634433-8bb7bb75-8854-4f26-bc23-8d6443676933.PNG)
+
+### Final
+
+<img width="814" alt="image9" src="https://user-images.githubusercontent.com/10171446/153634504-0ca1f33a-8255-4804-bbeb-c19321e17227.PNG">
+
 
 ## Following and followers
 
+![image21](https://user-images.githubusercontent.com/10171446/153634373-281f3494-d9db-4253-abf5-c3659310a976.PNG)
+
+
 ## Real-time Instant Messaging
+
+![image25](https://user-images.githubusercontent.com/10171446/153634146-0616e2f2-3ccc-47d4-9fda-16729e897bcb.PNG)
 
 ## Real-time Notifications
 
+Showing notifications for follows, likes and replies under notification section.
+Notice notifcation badges on the navigation panel.
+
+![image26](https://user-images.githubusercontent.com/10171446/153635267-91f28ae2-ade6-4cf3-b280-42d2e2e40d2b.PNG)
+
+
 ## Group Chat
 
+### Starting a group chat
+
+![image28](https://user-images.githubusercontent.com/10171446/153635622-94311a71-23f7-4cf1-ae31-44d654bf52ed.PNG)
+
+### Demo group chat
+
+<img width="814" alt="image29" src="https://user-images.githubusercontent.com/10171446/153633977-467f2450-2bd6-422d-8d6f-c49ca9c81039.PNG">
 
